@@ -1,0 +1,462 @@
+[
+
+
+
+
+
+{"name":"Trt 1","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
+{"name":"Trt 1","url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
+{"name":"Trt 1","url": "http://116.202.238.88/TRT1_TR/index.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
+{"name":"Trt 1","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20484","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
+{"name":"Trt 1","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/358053","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
+{"name":"Trt 1","url": "https://streams.uzunmuhalefet.com/stream/535f4f5a-3ffa-4919-bb5d-5d31024c9237.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"}, 
+{"name":"Trt 1","url": "https://tv-trt1.medya.trt.com.tr/master.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},  
+{"name":"Trt 1","url": "http://87.246.54.249:8080/TRT1/index.m3u8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
+{"name":"Trt 1","url": "https://trt.daioncdn.net/trt-1/master.m3u8?app=web","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
+
+{"name":"Tabii 1","url": "https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7uqvag61gnys&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "TV"},
+
+
+{"name":"Atv","url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
+{"name":"Atv","url": "http://65.108.239.207/atv/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
+{"name":"Atv","url": "http://87.246.54.249:8080/ATV/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
+{"name":"Atv","url": "http://116.202.238.88/ATV_TR/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
+{"name":"Atv","url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
+{"name":"Atv","url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
+{"name":"Atv","url": "http://stream.tvcdn.net/ulusal/atv.m3u8","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
+{"name":"Atv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6266","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
+{"name":"Atv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192065","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
+{"name":"Atv","url": "http://89.187.191.41/ATV-HD-TR/video.m3u8","logo": "https://i.imgur.com/jB7c7fM.png","category": "ulusal","subCategory": "TV"},
+{"name":"Atv","url": "http://95.174.71.114:80/TR-ATV/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Atv","url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Atv","url": "http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+
+{"name":"Atv Eu","url": "http://162.212.179.33/dvrfl05/gin-atvavrupa/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"}, 
+
+
+
+{"name":"Kanal D","url": "https://tatatam.trt1sultanfatihss.workers.dev/https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal D","url": "http://stream.tvcdn.net/ulusal/kanal-d.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal D","url": "https://streams.uzunmuhalefet.com/stream/6bdc8fb5-3e82-4b44-a0b1-6ab9fdc35d3f.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal D","url": "https://kdlive.duhnet.tv/S2/HLS_LIVE/kanalddainp/track_4_1250/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal D","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6275","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal D","url": "https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal D","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192068","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal D","url": "https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal D","url": "http://95.174.71.114:80/TR-KANAL-D/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal D","url": "https://demiroren.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal D","url": "http://87.246.54.249:8080/KanalD/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal D","url": "http://116.202.238.88/KANALD_TR/index.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+
+
+{"name":"Euro D","url": "https://viamotionhsi.netplus.ch/live/eds/eurod/browser-HLS8/eurod.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Euro D","url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Euro D","url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/track_4_1000/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Euro D","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/102083","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+{"name":"Euro D","url": "https://live.duhnet.tv/S2/HLS_LIVE/eurodnp/playlist.m3u8","logo": "https://i.imgur.com/jB7c7fM.pngg","category": "ulusal","subCategory": "TV"},
+
+
+{"name":"Star Tv","url": "https://dogus.daioncdn.net/startv/startv_720p.m3u8?&sid=7w0v4blzrjky&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=M3U8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Star Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6270","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Star Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192066","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Star Tv","url": "http://95.174.71.114:80/TR-STAR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Star Tv","url": "http://66.160.192.241/startvturk/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Star Tv","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Star Tv","url": "http://95.174.71.114/TR-STAR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Star Tv","url": "http://dygvideo.dygdigital.com/live/hls/stardai?m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Star Tv","url": "http://87.246.54.249:8080/StarTV/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Star Tv","url": "http://116.202.238.88/STARTV_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+ 
+ 
+ 
+{"name":"Eu Star","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/estar.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+ 
+ 
+
+{"name":"Show Türk","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+ 
+
+{"name":"Show Max","url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showmax/showmax.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Show Max","url": "http://95.174.71.114:80/TR-SHOW-MAX/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Show Max","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shmax.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+
+ 
+
+{"name":"Show Tv","url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/tur/shturk.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Show Tv","url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Show Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6273","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Show Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192067","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Show Tv","url": "http://95.174.71.114:80/TR-SHOW/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Show Tv","url": "https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Show Tv","url": "http://66.160.192.241/showtv/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Show Tv","url": "http://116.202.238.88/SHOWTV_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+
+ 
+
+{"name":"Kanal Avrupa","url": "https://trn03.tulix.tv/gt-kanalavrupa/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+ 
+
+
+{"name":"Now Tv","url": "http://stream.tvcdn.net/ulusal/now-tv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Now Tv","url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Now Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6276","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Now Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/358052","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Now Tv","url": "http://87.246.54.249:8080/NOW/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Now Tv","url": "http://116.202.238.88/FOXTV_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Now Tv","url": "http://95.174.71.114:80/TR-FOX/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Now Tv","url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Now Tv","url": "http://66.160.192.241/foxturk/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+ 
+ 
+
+ 
+{"name":"Tv 8","url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Tv 8","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/20742","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Tv 8","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/192072","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Tv 8","url": "http://89.187.191.41/TV8-HD-TR/video.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Tv 8","url": "http://95.174.71.114:80/TR-TV8/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Tv 8","url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8/tv8.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Tv 8","url": "http://87.246.54.249:8080/TV8/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Tv 8","url": "http://116.202.238.88/TV8_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+
+ 
+{"name":"Tv 8,5","url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Tv 8,5","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6281","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Tv 8,5","url": "http://65.108.239.207/tv85/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Tv 8,5","url": "https://rkhubpaomb.turknet.ercdn.net/fwjkgpasof/tv8bucuk/tv8bucuk.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+
+{"name":"A2","url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"A2","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6268","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"A2","url": "http://89.187.191.41/A2-HD-TR/video.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"A2","url": "http://95.174.71.114:80/TR-A2/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"A2","url": "https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"A2","url": "http://116.202.238.88/A2_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+ 
+
+{"name":"Tabii Tv","url": "https://ceokzokgtd.erbvr.com/tabiitv/tabiitv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+
+
+ 
+{"name":"Kanal 7","url": "https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal 7","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6278","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal 7","url": "http://95.174.71.114:80/TR-KANAL-7/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal 7","url": "https://yurhnwtpys.turknet.ercdn.net/cvmbjbpmdx/kanal7/kanal7.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal 7","url": "https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal 7","url": "http://87.246.54.249:8080/Kanal7/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+{"name":"Kanal 7","url": "http://116.202.238.88/KANAL7_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+ 
+
+{"name":"Kanal 7 Eu","url": "https://livetv.radyotvonline.net/kanal7live/kanal7avr/playlist.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+
+ 
+{"name":"Beyaz Tv","url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+{"name":"Beyaz Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/439458","logo": " ","category": "ulusal","subCategory": "TV"}, 
+{"name":"Beyaz Tv","url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv_1080p.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+{"name":"Beyaz Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6277","logo": " ","category": "ulusal","subCategory": "TV"}, 
+{"name":"Beyaz Tv","url": "https://beyaztv-live.daioncdn.net/beyaztv/beyaztv.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+{"name":"Beyaz Tv","url": "http://95.174.71.114:80/TR-BEYAZ/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+{"name":"Beyaz Tv","url": "http://87.246.54.249:8080/BeyazTV/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+{"name":"Beyaz Tv","url": "http://116.202.238.88/BEYAZTV_TR/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+
+
+ 
+{"name":"Tv 360","url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+{"name":"Tv 360","url": "http://95.174.71.114:80/TR-TV-360/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+{"name":"Tv 360","url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+{"name":"Tv 360","url": "https://tv.ensonhaber.com/tv360/tv360.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+{"name":"Tv 360","url": "https://turkmedya-live.ercdn.net/tv360/tv360.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+ 
+ 
+{"name":"Trt türk","url": "https://tv-trtturk.medya.trt.com.tr/master.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+
+{"name":"Trt Avaz","url": "https://tv-trtavaz.medya.trt.com.tr/master.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
+
+{"name":"Trt 2","url": "https://tv-trt2.medya.trt.com.tr/master.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
+{"name":"Trt 2","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/186242","logo": " ","category": "ulusal","subCategory": "TV"}, 
+{"name":"Trt 2","url": "http://87.246.54.249:8080/TRT2/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+{"name":"Trt 2","url": "http://95.174.71.114:80/TR-TRT2/index.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+ 
+{"name":"Trt Erba","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/6091","logo": " ","category": "ulusal","subCategory": "TV"},  
+
+
+{"name":"Luys Tv","url": "http://yrtds0911.xyz:8080/dlk1926/dlk.1926/186268","logo": " ","category": "ulusal","subCategory": "TV"},  
+ 
+
+{"name":"Kanal Plus","url": "https://live.artidijitalmedya.com/artidijital_kanalplus/kanalplus/mpeg/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
+
+{"name":"Urfanatik Tv","url": "https://live.artidijitalmedya.com/artidijital_urfanatiktv/urfanatiktv/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
+ 
+{"name":"Ton Tv","url": "https://live.artidijitalmedya.com/artidijital_tontv/tontv/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
+ 
+{"name":"Anadolu Net","url": "https://live.artidijitalmedya.com/artidijital_anadolunet/anadolunet/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+ 
+{"name":"Erciyes Tv","url": "https://live.artidijitalmedya.com/artidijital_erciyestv/erciyestv/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
+ 
+{"name":"Grt1","url": "https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
+ 
+{"name":"Kay Tv","url": "https://live.artidijitalmedya.com/artidijital_kaytv/kaytv1/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
+ 
+{"name":"Deniz Postasi","url": "https://live.artidijitalmedya.com/artidijital_denizpostasi/denizpostasi/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+ 
+{"name":"Ertv Tv","url": "https://live.artidijitalmedya.com/artidijital_ertv_new/ertv/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
+
+{"name":"Kanal Z","url": "https://live.artidijitalmedya.com/artidijital_kanalz/kanalz/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+
+{"name":"E Tv","url": "https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+
+{"name":"Kentturk Tv","url": "https://live.artidijitalmedya.com/artidijital_kentturktv/kentturktv/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"}, 
+
+{"name":"Konya Olay Tv","url": "https://live.artidijitalmedya.com/artidijital_konyaolaytv/konyaolaytv/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+
+{"name":"World Türk Tv","url": "https://live.artidijitalmedya.com/artidijital_worldturk/worldturk/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},  
+
+{"name":"Kanal 3","url": "https://live.artidijitalmedya.com/artidijital_etv/etv/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+
+{"name":"Kanal 26","url": "https://live.artidijitalmedya.com/artidijital_kanal26/kanal26/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+
+{"name":"Kanal 58","url": "https://live.artidijitalmedya.com/artidijital_kanal58/kanal58/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+
+{"name":"Sunr Tv","url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/chunks.m3u8","logo": " ","category": "ulusal","subCategory": "TV"},
+
+
+
+
+{"name":"ARABESK","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"https://canli.arabeskinmerkezi.com/9180/stream"},
+{"name":"ARABESK FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194692"},
+{"name":"ARABESK","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"https://canli.arabeskinmerkezi.com/9180/stream"},
+{"name":"Damar Fm","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/damarfm.m3u8"},
+{"name":"Radyo 45","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/radyo45lik.m3u8"},
+
+{"name":"Akustik Türkü","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/akustikturkuler.m3u8"},
+
+
+{"name":"Radyo 7","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/radyo7.m3u8"},
+{"name":"Slow Türk","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/slowturk.m3u8"},
+{"name":"Karadeniz","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/karadenizakustik.m3u8"},
+{"name":"Romantik","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/RomanticBallads.m3u8"},
+
+{"name":"Rock","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://104.238.23.182/yt1/s/krock.m3u8"},
+
+
+
+{"name":"SLOW KARADENIZ FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194682"},
+{"name":"RADYO SEVIMLI","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194683"},
+{"name":"GEBZE FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194684"},
+{"name":"ARABESK FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194692"},
+{"name":"ASK FM ANKARA","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194696"},
+{"name":"MERKEZ FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194701"},
+{"name":"RADYO 37","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194702"},
+{"name":"MAGIC FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194703"},
+{"name":"RADYO 38","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194707"},
+{"name":"ROMANTIK TURK","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194711"},
+{"name":"AFYON ARMONI FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194722"},
+{"name":"ANTAKYA RADYO RENK","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194723"},
+{"name":"BILECIK FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194725"},
+{"name":"DOST FM ANKARA","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194731"},
+{"name":"ELAZIG RADYO KENT","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194734"},
+{"name":"ELBISTAN RADYO UMUT","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194735"},
+{"name":"ERZINCAN INCITEK FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194738"},
+{"name":"ERZINCAN RADYO TEK","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194739"},
+{"name":"ERZURUM RADYO RITM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194740"},
+{"name":"GEBZE GUL FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194741"},
+{"name":"GENC RADYO KONYA","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194742"},
+{"name":"HATAY AKDENIZ FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194745"},
+{"name":"HATAY SHOW RADYO","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194746"},
+{"name":"ISRA FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194748"},
+{"name":"IZMIR CAN RADYO","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194749"},
+{"name":"KAY RADYO KAYSERI","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194751"},
+{"name":"KAYSERI 38 KENT FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194752"},
+{"name":"KIZILTEPE RADYO ZERGAN","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194754"},
+{"name":"KONYA RADYO EN","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194755"},
+{"name":"KONYA TIRYAKI FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194756"},
+{"name":"MALATYA RADYO IMPARATOR","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194758"},
+{"name":"NIGDE FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194763"},
+{"name":"OSMANIYE RADYO 80","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194764"},
+{"name":"RADYO 08","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194766"},
+{"name":"RADYO 13","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194767"},
+{"name":"RADYO 81","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194771"},
+{"name":"RADYO FLASH AYDIN","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194773"},
+{"name":"RADYO IZMIR FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194774"},
+{"name":"RADYO ULKU","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194777"},
+{"name":"RADYO YUKSEL","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194778"},
+{"name":"TEKIRDAG YILDIZ FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194781"},
+{"name":"TUNCELI RADYO MUNZUR","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194785"},
+{"name":"UMUT FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194787"},
+{"name":"ULKU FM","logo":"https://i.imgur.com/jB7c7fM.png","category":"ulusal","subCategory":"Radyo","url":"http://yrtds0911.xyz:8080/dlk1926/dlk.1926/194788"},
+
+
+ {"name":"Zor Tv","url": "http://sar-kor.karamehmet.workers.dev/?ID=6","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"24 Hd","url": "http://sar-kor.karamehmet.workers.dev/?ID=20","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Ftv","url": "http://sar-kor.karamehmet.workers.dev/?ID=74","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Uz Raport","url": "http://sar-kor.karamehmet.workers.dev/?ID=75","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Мир","url": "http://sar-kor.karamehmet.workers.dev/?ID=80","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Мир 24","url": "http://sar-kor.karamehmet.workers.dev/?ID=81","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Kinoteatr","url": "http://sar-kor.karamehmet.workers.dev/?ID=83","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Tarixi","url": "http://sar-kor.karamehmet.workers.dev/?ID=86","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Nurafshon","url": "http://sar-kor.karamehmet.workers.dev/?ID=87","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Ozbekiston","url": "http://sar-kor.karamehmet.workers.dev/?ID=8","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Taraqqiyot","url": "http://sar-kor.karamehmet.workers.dev/?ID=76","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Aqlvoy","url": "http://sar-kor.karamehmet.workers.dev/?ID=82","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Yoshlar","url": "http://sar-kor.karamehmet.workers.dev/?ID=9","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Toshkent","url": "http://sar-kor.karamehmet.workers.dev/?ID=10","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Sport Tv","url": "http://sar-kor.karamehmet.workers.dev/?ID=11","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Renessans","url": "http://sar-kor.karamehmet.workers.dev/?ID=88","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Madaniyat","url": "http://sar-kor.karamehmet.workers.dev/?ID=12","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Mahalla","url": "http://sar-kor.karamehmet.workers.dev/?ID=13","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Futbol","url": "http://sar-kor.karamehmet.workers.dev/?ID=14","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Dunyo Boylab","url": "http://sar-kor.karamehmet.workers.dev/?ID=15","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Bolajon","url": "http://sar-kor.karamehmet.workers.dev/?ID=16","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Navo","url": "http://sar-kor.karamehmet.workers.dev/?ID=17","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Mening Yurtim","url": "http://sar-kor.karamehmet.workers.dev/?ID=22","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Milliy ","url": "http://sar-kor.karamehmet.workers.dev/?ID=23","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Sevimli","url": "http://sar-kor.karamehmet.workers.dev/?ID=25","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Первый канал","url": "http://sar-kor.karamehmet.workers.dev/?ID=27","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Россия 1","url": "http://sar-kor.karamehmet.workers.dev/?ID=28","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Россия 24","url": "http://sar-kor.karamehmet.workers.dev/?ID=29","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Htb","url": "http://sar-kor.karamehmet.workers.dev/?ID=31","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"EuroNews","url": "http://sar-kor.karamehmet.workers.dev/?ID=32","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Детский мир","url": "http://sar-kor.karamehmet.workers.dev/?ID=40","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Карусель","url": "http://sar-kor.karamehmet.workers.dev/?ID=42","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Кухня Тb","url": "http://sar-kor.karamehmet.workers.dev/?ID=96","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Телекафе","url": "http://sar-kor.karamehmet.workers.dev/?ID=96","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Авто Плюс","url": "http://sar-kor.karamehmet.workers.dev/?ID=43","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"техно","url": "http://sar-kor.karamehmet.workers.dev/?ID=44","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Turis","url": "http://sar-kor.karamehmet.workers.dev/?ID=46","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"24 техно","url": "http://sar-kor.karamehmet.workers.dev/?ID=45","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"дней Тb","url": "http://sar-kor.karamehmet.workers.dev/?ID=98","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Ретро Тb","url": "http://sar-kor.karamehmet.workers.dev/?ID=55","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Россия Культура","url": "http://sar-kor.karamehmet.workers.dev/?ID=56","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Звезда","url": "http://sar-kor.karamehmet.workers.dev/?ID=59","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Наше Новое Кино","url": "http://sar-kor.karamehmet.workers.dev/?ID=60","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Родное Кино","url": "http://sar-kor.karamehmet.workers.dev/?ID=61","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Дом Кино","url": "http://sar-kor.karamehmet.workers.dev/?ID=62","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Кинохит","url": "http://sar-kor.karamehmet.workers.dev/?ID=63","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Киносвидание","url": "http://sar-kor.karamehmet.workers.dev/?ID=64","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Кинопремьера","url": "http://sar-kor.karamehmet.workers.dev/?ID=65","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Кинопоказ","url": "http://sar-kor.karamehmet.workers.dev/?ID=66","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Кинокомедия","url": "http://sar-kor.karamehmet.workers.dev/?ID=102","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Киносерия","url": "http://sar-kor.karamehmet.workers.dev/?ID=106","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Мужское Кино","url": "http://sar-kor.karamehmet.workers.dev/?ID=99","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Киномикс","url": "http://sar-kor.karamehmet.workers.dev/?ID=108","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Киносемья","url": "http://sar-kor.karamehmet.workers.dev/?ID=109","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Индийское кино","url": "http://sar-kor.karamehmet.workers.dev/?ID=69","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"МУЗ-Тb","url": "http://sar-kor.karamehmet.workers.dev/?ID=70","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"My3 Tb","url": "http://sar-kor.karamehmet.workers.dev/?ID=105","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Музыка Первого","url": "http://sar-kor.karamehmet.workers.dev/?ID=71","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Ru Tv","url": "http://sar-kor.karamehmet.workers.dev/?ID=72","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Ля-Минор Тb","url": "http://sar-kor.karamehmet.workers.dev/?ID=97","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Уникум","url": "http://sar-kor.karamehmet.workers.dev/?ID=100","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Zoo Tv","url": "http://sar-kor.karamehmet.workers.dev/?ID=101","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Тhb Планета","url": "http://sar-kor.karamehmet.workers.dev/?ID=103","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Dastarkhan","url": "http://sar-kor.karamehmet.workers.dev/?ID=85","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"France24","url": "http://sar-kor.karamehmet.workers.dev/?ID=89","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Cnn","url": "http://sar-kor.karamehmet.workers.dev/?ID=90","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Cgtn","url": "http://sar-kor.karamehmet.workers.dev/?ID=92","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Bbc Wn","url": "http://sar-kor.karamehmet.workers.dev/?ID=104","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Btvru","url": "http://sar-kor.karamehmet.workers.dev/?ID=94","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"TuganTEL","url": "http://sar-kor.karamehmet.workers.dev/?ID=95","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Deutsche Welle","url": "http://sar-kor.karamehmet.workers.dev/?ID=107","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Живи","url": "http://sar-kor.karamehmet.workers.dev/?ID=110","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Усадьба","url": "http://sar-kor.karamehmet.workers.dev/?ID=111","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Домашние животные","url": "http://sar-kor.karamehmet.workers.dev/?ID=112","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Hdl","url": "http://sar-kor.karamehmet.workers.dev/?ID=113","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Здоровое","url": "http://sar-kor.karamehmet.workers.dev/?ID=114","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Вопросы и ответы","url": "http://sar-kor.karamehmet.workers.dev/?ID=115","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Nat Geo Wild","url": "http://sar-kor.karamehmet.workers.dev/?ID=116","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Живи Активно","url": "http://sar-kor.karamehmet.workers.dev/?ID=117","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"мире животных","url": "http://sar-kor.karamehmet.workers.dev/?ID=118","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Живая природа","url": "http://sar-kor.karamehmet.workers.dev/?ID=119","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Арсенал","url": "http://sar-kor.karamehmet.workers.dev/?ID=120","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Duck","url": "http://sar-kor.karamehmet.workers.dev/?ID=121","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Капитан Фантастика","url": "http://sar-kor.karamehmet.workers.dev/?ID=122","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Охотник и рыболов","url": "http://sar-kor.karamehmet.workers.dev/?ID=123","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Insight","url": "http://sar-kor.karamehmet.workers.dev/?ID=124","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Trace Sport Stars","url": "http://sar-kor.karamehmet.workers.dev/?ID=125","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Глазами Туриста","url": "http://sar-kor.karamehmet.workers.dev/?ID=127","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Наша Сибирь","url": "http://sar-kor.karamehmet.workers.dev/?ID=128","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Avto24","url": "http://sar-kor.karamehmet.workers.dev/?ID=129","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Drive","url": "http://sar-kor.karamehmet.workers.dev/?ID=130","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Хабар24","url": "http://sar-kor.karamehmet.workers.dev/?ID=131","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Dorama","url": "http://sar-kor.karamehmet.workers.dev/?ID=132","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+
+ {"name":"Загородный","url": "http://sar-kor.karamehmet.workers.dev/?ID=134","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"гостях у сказки","url": "http://sar-kor.karamehmet.workers.dev/?ID=135","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Первый космический","url": "http://sar-kor.karamehmet.workers.dev/?ID=136","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Живая планета ","url": "http://sar-kor.karamehmet.workers.dev/?ID=138","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"TRT Music","url": "http://sar-kor.karamehmet.workers.dev/?ID=139","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Приключения","url": "http://sar-kor.karamehmet.workers.dev/?ID=140","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Наука","url": "http://sar-kor.karamehmet.workers.dev/?ID=141","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"TRT Haber","url": "http://sar-kor.karamehmet.workers.dev/?ID=142","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Мама","url": "http://sar-kor.karamehmet.workers.dev/?ID=143","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"AzTV","url": "http://sar-kor.karamehmet.workers.dev/?ID=146","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Nick Jr","url": "http://sar-kor.karamehmet.workers.dev/?ID=147","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Точка отрыва","url": "http://sar-kor.karamehmet.workers.dev/?ID=148","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Моя планета","url": "http://sar-kor.karamehmet.workers.dev/?ID=149","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"NatGeo channel","url": "http://sar-kor.karamehmet.workers.dev/?ID=150","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Kazakhstan","url": "http://sar-kor.karamehmet.workers.dev/?ID=151","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Мульт","url": "http://sar-kor.karamehmet.workers.dev/?ID=152","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Fashion","url": "http://sar-kor.karamehmet.workers.dev/?ID=154","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Cinema","url": "http://sar-kor.karamehmet.workers.dev/?ID=155","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Сарафан","url": "http://sar-kor.karamehmet.workers.dev/?ID=156","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Iqbol","url": "http://sar-kor.karamehmet.workers.dev/?ID=157","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"TRT Avaz","url": "http://sar-kor.karamehmet.workers.dev/?ID=158","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"MMA-TV","url": "http://sar-kor.karamehmet.workers.dev/?ID=35","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Khl","url": "http://sar-kor.karamehmet.workers.dev/?ID=36","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Gulli Girl","url": "http://sar-kor.karamehmet.workers.dev/?ID=159","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Doctor","url": "http://sar-kor.karamehmet.workers.dev/?ID=160","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"English Club","url": "http://sar-kor.karamehmet.workers.dev/?ID=161","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Bollywood","url": "http://sar-kor.karamehmet.workers.dev/?ID=162","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"HollyWood","url": "http://sar-kor.karamehmet.workers.dev/?ID=163","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"TiJi","url": "http://sar-kor.karamehmet.workers.dev/?ID=164","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Kbs World","url": "http://sar-kor.karamehmet.workers.dev/?ID=165","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Itv Cinema","url": "http://sar-kor.karamehmet.workers.dev/?ID=166","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"itv Music","url": "http://sar-kor.karamehmet.workers.dev/?ID=167","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Tvc Ru","url": "http://sar-kor.karamehmet.workers.dev/?ID=168","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Bloomberg","url": "http://sar-kor.karamehmet.workers.dev/?ID=169","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Match Planeta","url": "http://sar-kor.karamehmet.workers.dev/?ID=170","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Ruxsor","url": "http://sar-kor.karamehmet.workers.dev/?ID=171","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Lux","url": "http://sar-kor.karamehmet.workers.dev/?ID=172","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Makon","url": "http://sar-kor.karamehmet.workers.dev/?ID=173","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Cgtn Ru","url": "http://sar-kor.karamehmet.workers.dev/?ID=174","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"AlJazeera","url": "http://sar-kor.karamehmet.workers.dev/?ID=175","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Nhk","url": "http://sar-kor.karamehmet.workers.dev/?ID=176","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Mulokot","url": "http://sar-kor.karamehmet.workers.dev/?ID=177","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Biz Cinema","url": "http://sar-kor.karamehmet.workers.dev/?ID=178","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Comedy Central","url": "http://sar-kor.karamehmet.workers.dev/?ID=179","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Dw Ru","url": "http://sar-kor.karamehmet.workers.dev/?ID=180","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Mtv Live","url": "http://sar-kor.karamehmet.workers.dev/?ID=181","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Nickelodeon","url": "http://sar-kor.karamehmet.workers.dev/?ID=182","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+ {"name":"Nicktoons","url": "http://sar-kor.karamehmet.workers.dev/?ID=183","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+
+
+ {"name":"Film 1","url": "https://vidsrc-embed.ru/embed/movie?imdb=tt32777683","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"},
+
+
+
+
+ {"name":"Mtv","url": "http://sar-kor.karamehmet.workers.dev/?ID=184","logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/TRT_1_logo.svg/1200px-TRT_1_logo.svg.png","category": "ulusal","subCategory": "Azer"}
+
+
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
