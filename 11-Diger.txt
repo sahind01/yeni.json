@@ -1,0 +1,46 @@
+[
+{"name": "Mp3 Dinle","url": "https://turis-tv.github.io/2026-Menu/3-Mp3/1-Mp3-Playlist/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+{"name": "Iptv","url": "https://turis-tv.github.io/2026-Appcreator/Iptv-Yedek-Parser/1-Parser/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+
+
+{"name": "Kemal Sunal","url": "https://turis-tv.github.io/2026-Appcreator/Kemal-Sunal-Youtube/Kemal-Sunal-Filmleri-Youtube.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+{"name": "Diziler Youtube","url": "https://turis-tv.github.io/2026-Appcreator/Kemal-Sunal-Youtube/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+ {"name": "Filmler","url": "https://turis-tv.github.io/2026-Appcreator/Films/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+ {"name": "Youtube Dizi","url": "https://turis-tv.github.io/2026-Menu/16-Youtube/1-Youtube/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+ {"name": "Dini","url": "https://turis-tv.github.io/2026-Menu/5-Dini/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+ {"name": "Radyolar","url": "https://turis-tv.github.io/2026-Menu/6-Radyolar/index.htm","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+
+
+ {"name": "Test 1","url": "https://merhmet.github.io/Full.io/AnaMenu/01Iptv/10TurisWuffy/indexx.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+ {"name": "Test 2","url": "https://merhmet.github.io/Full.io/AnaMenu/01Iptv/10TurisWuffy/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+ {"name": "Test 3","url": "https://merhmet.github.io/TurisMulayim/AnaMenu/saraydorf.de/index.html","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+ {"name": "Test 4","url": "https://merhmet.github.io/Tinastepe1.io/index.htm","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+
+ {"name": "Ana Sayfa","url": "https://turis-tv.github.io/2026-Appcreator/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"},
+
+
+
+
+ {"name": "Oyunlar","url": "https://emupedia.net/beta/emuos/","logo": "https://img.icons8.com/fluency/96/link.png","category": "diger","type": "link"}
+
+
+
+
+]
+
+
+
+
+
+
+
+
