@@ -1,72 +1,122 @@
 [
   {
-    "id": 1772965102185,
-    "tmdbId": "426865",
-    "title": "UFO",
-    "logo": "https://image.tmdb.org/t/p/w500/1KakKgg0b7k21P8fTWKVHOu77ze.png",
-    "poster": "https://image.tmdb.org/t/p/original/jdy1GTdaAXqhsCVOpIXokifYdCh.jpg",
-    "backdrop": "https://image.tmdb.org/t/p/original/s5Dz4TsaW5jyLw5GS73jgqgwHsZ.jpg",
-    "trailer": "https://www.youtube.com/watch?v=GrUpLUy6iRc",
-    "year": "2018",
-    "rating": "6.9",
+    "id": 1773269398708,
+    "tmdbId": "1460028",
+    "title": "Baldız",
+    "logo": "",
+    "poster": "https://image.tmdb.org/t/p/original/hEzTNpdUSQNoWbMDIk3P7sqSvg.jpg",
+    "backdrop": "https://image.tmdb.org/t/p/original/mtIHGsriCoHKwV9SIfVdzM45RIn.jpg",
+    "trailer": "",
+    "year": "2025",
+    "rating": "6.0",
     "language": "Türkçe",
-    "category": "",
-    "storyline": "A college student, who sees a UFO, uses his exceptional math skills to investigate the sighting with his friends while the FBI follows closely behind.",
+    "category": "Erotik",
+    "storyline": "On one side, there is a sister who is as charming as she is jealous; on the other, a younger sister who is willing to do anything for love; and caught between them, a helpless groom...",
     "cast": [
       {
-        "name": "Alex Sharp",
-        "character": "Derek Echevaro",
-        "photo": "https://image.tmdb.org/t/p/w185/hsbwCL4YzVnbmgFYvGRc9V30gSM.jpg"
+        "name": "Oya Başar",
+        "character": "",
+        "photo": "https://image.tmdb.org/t/p/w185/tbuc8e3dTCzib6QkXIHZzWojtGz.jpg"
       },
       {
-        "name": "Gillian Anderson",
-        "character": "Dr. Hendricks",
-        "photo": "https://image.tmdb.org/t/p/w185/gLlwFti7pq4OLigtCV0B3e7W2f2.jpg"
+        "name": "Asuman Dabak",
+        "character": "",
+        "photo": "https://image.tmdb.org/t/p/w185/2fGMZvPXMVVRnq0BoiPSz4QKEBY.jpg"
       },
       {
-        "name": "Ella Purnell",
-        "character": "Natalie",
-        "photo": "https://image.tmdb.org/t/p/w185/5PscK9HNXGFQMIxkpbR8ObB7vuR.jpg"
-      },
-      {
-        "name": "David Strathairn",
-        "character": "Franklin Ahls",
-        "photo": "https://image.tmdb.org/t/p/w185/w5YM2cGefPnkoyIXCi2UrCQW53r.jpg"
-      },
-      {
-        "name": "Brian 'Wolfman Black' Bowman",
-        "character": "Roland Junger",
-        "photo": "https://image.tmdb.org/t/p/w185/87M1G92hK3UmEVAl0hAKCmvZ26L.jpg"
-      },
-      {
-        "name": "Katie Eichler",
-        "character": "Sara",
-        "photo": "https://image.tmdb.org/t/p/w185/iiYOHzQ9k4y0AKZrXqh2VDo7OvI.jpg"
-      },
-      {
-        "name": "Benjamin Beatty",
-        "character": "Lee",
+        "name": "Ayşegül Asar",
+        "character": "",
         "photo": ""
       },
       {
-        "name": "Marcus B. Jackson",
-        "character": "Armed Guard",
-        "photo": "https://image.tmdb.org/t/p/w185/250SgVMsRPyfNi2vH9hQbxMgRrw.jpg"
+        "name": "Pedro Karami",
+        "character": "",
+        "photo": ""
       },
       {
-        "name": "Mark Aaron Buerkle",
-        "character": "William Hendricks",
-        "photo": "https://image.tmdb.org/t/p/w185/g6cGJkrgEYqF9fM7RReSLivxbxx.jpg"
+        "name": "Damla Aslanalp",
+        "character": "",
+        "photo": "https://image.tmdb.org/t/p/w185/yCq5CuEP7pQrtL2d5SfCDYQxZ8l.jpg"
       },
       {
-        "name": "David Heckel",
-        "character": "Hal LaPierre",
+        "name": "Emel Müftüoğlu",
+        "character": "",
         "photo": ""
       }
     ],
-    "movieLink": "https://api.codetabs.com/v1/proxy/?quest=https://andro.okan11gote12sokan.cfd/checklist/androstreamlivebs1.m3u8",
-    "downloadLink": "",
+    "movieLink": "https://vs22.photoflick.org/v/Home.Alone.5.The.Holiday.Heist.2012.1080p.BluRay.x264.TR.ENG.Filmbol/1080.m3u8",
+    "downloadLink": "https://vs22.photoflick.org/v/Home.Alone.5.The.Holiday.Heist.2012.1080p.BluRay.x264.TR.ENG.Filmbol/1080.m3u8",
     "type": "movie",
-    "createdAt": 1772965102191
+    "createdAt": 1773269398708
+  },
+  {
+    "id": 1773269417408,
+    "tmdbId": "483748",
+    "title": "Baldız",
+    "logo": "",
+    "poster": "https://image.tmdb.org/t/p/original/gwZDR5Bw2DMkYn6CvWHV3qCo9mD.jpg",
+    "backdrop": "",
+    "trailer": "",
+    "year": "1975",
+    "rating": "5.8",
+    "language": "Türkçe",
+    "category": "Erotik",
+    "storyline": "The tragicomic story of a man marrying the wrong girl.",
+    "cast": [
+      {
+        "name": "Kadir İnanır",
+        "character": "Hasan Terbasan",
+        "photo": "https://image.tmdb.org/t/p/w185/avgjNCMw3eVxBN40L7IbtpgWoos.jpg"
+      },
+      {
+        "name": "Müjde Ar",
+        "character": "Naciye Arnamus",
+        "photo": "https://image.tmdb.org/t/p/w185/vym88KW8Ebdc2efILMXSUD93ryE.jpg"
+      },
+      {
+        "name": "Ali Şen",
+        "character": "Sükrü Arnamus",
+        "photo": "https://image.tmdb.org/t/p/w185/fE9PSwA5G1m35GR2l7MMQAbAjpC.jpg"
+      },
+      {
+        "name": "Renan Fosforoğlu",
+        "character": "Riza",
+        "photo": "https://image.tmdb.org/t/p/w185/rH8UVHGWVM4MdavbKhn8uHvASoU.jpg"
+      },
+      {
+        "name": "Zeki Alpan",
+        "character": "",
+        "photo": "https://image.tmdb.org/t/p/w185/AdztakGxf9HdhMs1YvYL57UpM8i.jpg"
+      },
+      {
+        "name": "Kamer Sadık",
+        "character": "",
+        "photo": "https://image.tmdb.org/t/p/w185/uMm29eN5C9n5MKK9PoRQBPXa5H3.jpg"
+      },
+      {
+        "name": "Necdet Yakın",
+        "character": "Kahveci",
+        "photo": "https://image.tmdb.org/t/p/w185/cT1ouR5wSvWYOgBwNxSgZst7VH9.jpg"
+      },
+      {
+        "name": "Yonca Yücel",
+        "character": "",
+        "photo": "https://image.tmdb.org/t/p/w185/nX6pda848pyHYUY5lYaph1ZKHMg.jpg"
+      },
+      {
+        "name": "Oya Öge",
+        "character": "",
+        "photo": ""
+      },
+      {
+        "name": "Levent İnanır",
+        "character": "",
+        "photo": "https://image.tmdb.org/t/p/w185/iSVX3Jm41jAsDs6zFuqBk1iYRXK.jpg"
+      }
+    ],
+    "movieLink": "https://vs19.photostack.net/v/Strawberry.Shortcakes.Spring.Spectacular.2024.WEB-DL.1080p.DUAL/1080.m3u8",
+    "downloadLink": "https://vs19.photostack.net/v/Strawberry.Shortcakes.Spring.Spectacular.2024.WEB-DL.1080p.DUAL/1080.m3u8",
+    "type": "movie",
+    "createdAt": 1773269417409
   }
 ]
